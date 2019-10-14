@@ -48,20 +48,15 @@ body {
   position: relative;
 }
 
-
 #top_nav>div.head_nav_item.fl_r {
   position: relative;
   top: 105px;
   left: 67px;
   padding-left: 0px !important;
   margin: 0px !important;
-
 }
 
-.top_profile_name,
-.eltt_arrow,
-#top_notify_wrap:before,
-#top_notify_wrap:after {
+.top_profile_name, .eltt_arrow, #top_notify_wrap:before, #top_notify_wrap:after {
   display: none;
 }
 
@@ -116,10 +111,7 @@ body {
   left: 940px;
 }
 
-#page_header,
-.head_nav,
-#page_header_cont .back,
-#page_header_cont {
+#page_header, .head_nav, #page_header_cont .back, #page_header_cont {
   height: 1px !Important;
 }
 
@@ -145,8 +137,7 @@ input.text.ts_input {
   transition: 0.5s;
 }
 
-#page_header_cont .back,
-.top_nav_link {
+#page_header_cont .back, .top_nav_link {
   background-color: transparent;
 }
 
@@ -156,7 +147,6 @@ input.text.ts_input {
 
 #side_bar ol {
   position: relative !important;
-
 }
 
 #page_header {
@@ -316,7 +306,6 @@ body.musicsig-fix_top_menu.pre-2016-layout #side_bar,
 
 .eltt.top_audio_layer {
   margin-left: -856px !important;
-
 }
 
 .body_im .eltt.top_audio_layer {
@@ -399,9 +388,7 @@ body.musicsig-fix_top_menu.pre-2016-layout #side_bar,
   .top_audio_player .top_audio_player_title {
     left: 15px
   }
-
-
-
+  
   .head_nav_item_player {
     left: 753px !important;
     width: 90px;
@@ -511,7 +498,6 @@ input.text.ts_input:focus {
   cursor: text;
 }
 
-/*1*/
 .l_comm {
   position: relative;
   overflow: visible !important;
@@ -536,7 +522,6 @@ input.text.ts_input:focus {
 
 .l_comm:hover .fl_l {
   background-image: none !important;
-
 }
 
 #side_bar ol li.l_comm a.left_row:hover {

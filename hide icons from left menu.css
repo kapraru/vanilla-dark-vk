@@ -1,0 +1,28 @@
+.left_icon, #side_bar_inner #msig_comm span::before{
+  display: none !important;
+}
+#side_bar_inner #msig_comm span {
+padding-left:0;
+}
+#side_bar ol li {
+margin-left:10px;
+}
+.side_bar_inner {
+  margin-left: 15px !important;
+}
+#side_bar_inner>ol>li {
+width:130px !important;
+  padding-left:3px;
+}
+#side_bar ol {
+  left: 10px !important;
+}
+#side_bar .more_div {
+  margin-left: 13px;
+}
+.left_menu_nav_wrap {
+  margin-left: 15px;
+}
+.top_home_link .top_home_logo {
+  margin-left:25px;
+}

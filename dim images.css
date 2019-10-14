@@ -1,0 +1,13 @@
+img, a[href*='photo-'], span[style*='image: url'], a[style*='image: url'], div[style*='image: url'] {
+  -webkit-filter:brightness(0.6);
+  filter:brightness(0.6);
+  transition:0.2s;
+}
+img:hover, a[href*='photo-']:hover, span[style*='image: url']:hover, a[style*='image: url']:hover, div[style*='image: url']:hover   {
+  -webkit-filter:brightness(0.9);
+  filter:brightness(0.9);
+}
+
+a[href*='photo'], #pv_photo img {
+  transition:0.2s;
+}

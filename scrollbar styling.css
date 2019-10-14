@@ -1,0 +1,12 @@
+*::-webkit-scrollbar {
+  width: 15px !important;
+  height: 10px !important;
+  background:  var(--color9) !important;
+  border: 1px solid var(--color3) !important;
+}
+
+*::-webkit-scrollbar-thumb {
+  min-height: 28px !important;
+  background: var(--color7) !important;
+}
+ 

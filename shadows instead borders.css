@@ -1,8 +1,10 @@
+/* Тени блоков вместо бордеров */
+
 .page_block {
   -moz-box-shadow: 2px 5px 8px 4px rgba(0,0,0,0.09) !important;
-box-shadow: 2px 5px 8px 4px rgba(0,0,0,0.09) !important;
+  box-shadow: 2px 5px 8px 4px rgba(0,0,0,0.09) !important;
 }
 
 .im-page .im-page--history, .im-page .im-page--dialogs {
-box-shadow: none!important;
+  box-shadow: none!important;
 }

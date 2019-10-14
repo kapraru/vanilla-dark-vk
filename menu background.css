@@ -1,4 +1,6 @@
+/* Фон меню */
+
 #side_bar li {
-	background-color:var(--color4);
-  opacity:0.8;
+  background-color: var(--color4);
+  opacity: 0.8;
 }

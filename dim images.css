@@ -1,3 +1,5 @@
+/* Затемнение изображений */
+
 img, a[href*='photo-'], span[style*='image: url'], a[style*='image: url'], div[style*='image: url'] {
   -webkit-filter:brightness(0.6);
   filter:brightness(0.6);

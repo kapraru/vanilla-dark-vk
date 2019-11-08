@@ -11,3 +11,9 @@
   min-height: 28px !important;
   background: var(--color7) !important;
 }
+
+/* Стилизация полос прокрутки (только Firefox) */
+
+html {
+  scrollbar-color: var(--color7) var(--color9) !important;
+}

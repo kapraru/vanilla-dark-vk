@@ -830,4 +830,21 @@ img.sticker_img.im_gift, img.im_gift, .emoji_sticker_image, .sticker_img  {
 .deep_active .post_replies_header .post_replies_reorder, .deep_active.wall_module .post_replies_header .post_replies_reorder {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='4' viewBox='944 1152 8 4'%3E%3Cpath d='M945.2 1152.2C944.9 1152 944.5 1152 944.3 1152.3 944.1 1152.6 944.1 1153 944.4 1153.2L947.6 1155.8C947.8 1156 948.2 1156 948.4 1155.8L951.6 1153.2C951.9 1153 951.9 1152.6 951.7 1152.3 951.5 1152 951.1 1152 950.8 1152.2L948 1154.5 945.2 1152.2Z' fill='%23aaa'/%3E%3C/svg%3E");
 }
+
+.im-group-online-box .im-group-online-box--top {
+    background-image: none;
+    background-color: #1b1b1b;
+}
+
+.im-group-online-box .im-group-online-box--top .im-group-online-box--top-description,
+.im-group-online-box .im-group-online-box--description .im-group-online-box--description-text .im-group-online-box--description-desc,
+.im-group-online-box .im-group-online-box--list .im-group-online-box--item .im-group-online-box--item-desc {
+    color: var(--brigther_font_color);
+}
+
+.im-group-online-box .im-group-online-box--top,
+.im-group-online-box .im-group-online-box--description {
+    border-bottom: 1px solid var(--color3);
+}
+
 }

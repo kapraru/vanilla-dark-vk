@@ -67,7 +67,7 @@ input.text.ts_input {
 	background-color:#222;
 }
 
-#ads_left, .emoji_expand_shadow, .emoji_expand_shadow_top, .emoji_tabs_l_sc, .emoji_tabs_r_sc, .chat_cont_sh_bottom, .chat_cont_sh_top, .leave_redesign, .ui_scroll_default_theme.ui_scroll_emoji_theme .ui_scroll_shadow_bottom, .ui_scroll_default_theme.ui_scroll_emoji_theme .ui_scroll_shadow_top, embed#flash_api_external, .emoji_cats_title_helper:after, ._ads_promoted_post_data_w, .ads_ad_box  {
+#ads_left, .left_menu_nav_wrap:nth-child(3) ,.emoji_expand_shadow, .emoji_expand_shadow_top, .emoji_tabs_l_sc, .emoji_tabs_r_sc, .chat_cont_sh_bottom, .chat_cont_sh_top, .leave_redesign, .ui_scroll_default_theme.ui_scroll_emoji_theme .ui_scroll_shadow_bottom, .ui_scroll_default_theme.ui_scroll_emoji_theme .ui_scroll_shadow_top, embed#flash_api_external, .emoji_cats_title_helper:after, ._ads_promoted_post_data_w, .ads_ad_box  {
 	display:none !important;
 }
 .button_gray button.hover, .button_gray button:hover, .flat_button.secondary.hover, .flat_button.secondary:hover, .box_controls .flat_button.secondary:hover, .flat_button.secondary.button_light:hover, #mv_comments_header:hover, .mv_subscribe_block .mv_subscribe_btn_count, .replies_open, .wr_header:hover, .top_notify_show_all:hover, .pv_comments_header:hover, em.ts_clist_hl, em.highlight, .search_focused .highlight, .audio_search_focused .audio_performer>em, .audio_friend.audio_friend_selected, .ui_toggler:after, .summary_tab2:hover, .im-to-end:focus .im-to-end__button, .im-to-end:hover .im-to-end__button, .notifications_new_events:hover {

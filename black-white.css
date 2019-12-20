@@ -216,6 +216,9 @@ input[readonly*='true']{
   -webkit-filter: hue-rotate(169deg)saturate(0)brightness(2.7)opacity(.8);
   filter: hue-rotate(169deg)saturate(0)brightness(2.7)opacity(.8);
 }
+.page_verified, .feed_notifications .page_verified, .post_author .page_verified, .reply_author .page_verified, .top_notify_cont .page_verified, .top_tt_important .page_verified, .ts_cont_wrap .page_verified {
+  filter: saturate(0)brightness(1.2);
+}
 .feed_notifications .page_verified, .post_author .page_verified, .reply_author .page_verified, .top_notify_cont .page_verified, .top_tt_important .page_verified, .ts_cont_wrap .page_verified {
   filter: invert(1)saturate(0)brightness(2);
 }

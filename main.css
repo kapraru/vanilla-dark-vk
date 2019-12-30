@@ -220,7 +220,7 @@ div#wcm_messages_stat_graph div div,
 	border-color:var(--color1);
 }
 
-.ui_tab:hover, .ui_tabs .ui_tab:hover, .pg_lnk:hover, .im_fwd_log_wrap, .im_wall_log_wrap, .wall_module .media_desc .lnk.lnk_mail, .emoji_tab:hover, .post_upload_dropbox_inner, .wk_text blockquote, .docs_choose_dropbox_wrap, .im-dropbox .im-dropbox--inner, .group_api_blockquote, a.wk_ext_link, .help_table_question, .help_table_questions, .tickets_reply_row, .tickets_thank_you_form, .tickets_suggest, .tu_row, .fc_msgs_out .fc_msgs, .cal_table .day.sel, .cal_table .day.sel.hover, .ui_progress .ui_progress_back, .bd_day_head, .bd_day_cell.holiday.today .bd_day_events, .bd_day_cell.today .bd_day_events, .nim-dialog:not(.nim-dialog_deleted).nim-dialog.nim-dialog_selected:hover, .story_feed_new_item .stories_feed_item_ava, .audio_progress, .im-dropbox--rect {
+.ui_rmenu_count.grey, .ui_tab:hover, .ui_tabs .ui_tab:hover, .pg_lnk:hover, .im_fwd_log_wrap, .im_wall_log_wrap, .wall_module .media_desc .lnk.lnk_mail, .emoji_tab:hover, .post_upload_dropbox_inner, .wk_text blockquote, .docs_choose_dropbox_wrap, .im-dropbox .im-dropbox--inner, .group_api_blockquote, a.wk_ext_link, .help_table_question, .help_table_questions, .tickets_reply_row, .tickets_thank_you_form, .tickets_suggest, .tu_row, .fc_msgs_out .fc_msgs, .cal_table .day.sel, .cal_table .day.sel.hover, .ui_progress .ui_progress_back, .bd_day_head, .bd_day_cell.holiday.today .bd_day_events, .bd_day_cell.today .bd_day_events, .nim-dialog:not(.nim-dialog_deleted).nim-dialog.nim-dialog_selected:hover, .story_feed_new_item .stories_feed_item_ava, .audio_progress, .im-dropbox--rect {
 	border-color:var(--color2);
 }
 

@@ -731,9 +731,10 @@ img[src="/images/camera_100.png"], img[src="/images/camera_100.png?ava=1"], img[
 .ui_actions_menu._ui_menu:hover {
   box-shadow: 0 0 3px 1px rgba(255, 255, 255, .06);
 }
-.im-aside-notice, ._playlist_page_content_block {
+.im-aside-notice, ._playlist_page_content_block, .im-page.im-page_classic .im-page--dcontent {
   box-shadow: none;
 }
+
 /*------------------------temp-audiofix---------------------*/
 
 .audio_row .audio_row_cover_wrap {

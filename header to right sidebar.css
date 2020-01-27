@@ -575,3 +575,10 @@ input.text.ts_input {
 .vk_menu_block ul li a:hover {
   background-color: var(--color3) !important;
 }
+
+.im-page_classic.im-page .im-page--dialogs, .im-page_classic.im-page .im-page--dcontent {
+  border-radius: 0!important;
+}
+.im-page.im-page_classic.im-page_group .im-page--dialogs.im-page--dialogs--group-status {
+  padding-top: 67px;
+}

@@ -106,7 +106,7 @@ input.text.ts_input {
 
 /*aplayer*/
 .audio_pl_item .audio_pl__cover {
-   /* background-image: url('http://i.imgur.com/brNuxIX.png');*/
+   /* background-image: url('https://i.imgur.com/brNuxIX.png');*/
 	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2272%22%20height%3D%2272%22%20viewBox%3D%22687%20319%2072%2072%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cpath%20d%3D%22M687%20319h72v72h-72%22%2F%3E%3Cpath%20d%3D%22M739%20371c0%204.42-3.58%208-8%208s-8-3.58-8-8%203.58-8%208-8c1.9%200%203.63.66%205%201.75V340.7c0-1.1.87-2.22%201.94-2.5l8.12-2c1.08-.28%201.94.4%201.94%201.5v5c0%201.1-.87%202.22-1.94%202.5l-7.06%201.75V371zm-40-30.5c0-.83.67-1.5%201.5-1.5h29c.83%200%201.5.67%201.5%201.5s-.67%201.5-1.5%201.5h-29c-.83%200-1.5-.67-1.5-1.5zm0%209c0-.83.67-1.5%201.5-1.5h29c.83%200%201.5.67%201.5%201.5s-.67%201.5-1.5%201.5h-29c-.83%200-1.5-.67-1.5-1.5zm0%209c0-.83.67-1.5%201.5-1.5h21c.83%200%201.5.67%201.5%201.5s-.67%201.5-1.5%201.5h-21c-.83%200-1.5-.67-1.5-1.5z%22%20fill%3D%22%2377BABC%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
 }
 .audio_page_player .slider .slider_slide, .audio_page_player .audio_page_player_track_slider:not(.slider), .audio_page_player .audio_page_player_volume_slider:not(.slider)  {
@@ -153,7 +153,7 @@ input[readonly*='true']{
   background-image: url('data:image/svg+xml;charset=utf-8,<svg%20width%3D"13px"%20height%3D"21px"%20viewBox%3D"0%200%2013%2021"%20xmlns%3D"http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg"><g%20id%3D"Page-1"%20fill%3D"none"%20fill-rule%3D"evenodd"><g%20id%3D"musicPlayerAtrwork"><g%20id%3D"Group-3"><g%20id%3D"Group-2"><g%20id%3D"artAudioPlayer"%20transform%3D"translate(-101.000000%2C%20-97.000000)%20translate(80.000000%2C%2080.000000)"><rect%20id%3D"Mask"%20width%3D"54"%20height%3D"54"%2F><path%20d%3D"M27%2C21.007484%20C27%2C20.4510659%2027.4438648%2C20%2028%2C20%20L28%2C20%20C28.5522847%2C20%2029%2C20.4489202%2029%2C21.007484%20L29%2C33.992516%20C29%2C34.5489341%2028.5561352%2C35%2028%2C35%20L28%2C35%20C27.4477153%2C35%2027%2C34.5510798%2027%2C33.992516%20L27%2C21.007484%20Z"%20id%3D"Rectangle"%20fill%3D"%23888"%2F><path%20d%3D"M27%2C18.7122688%20C27%2C18.4325926%2027.217172%2C18.1658118%2027.4922264%2C18.1150768%20L33.5077736%2C17.0054814%20C33.7796227%2C16.9553376%2034%2C17.1453957%2034%2C17.4210866%20L34%2C20.2818361%20C34%2C20.5615123%2033.782828%2C20.8282931%2033.5077736%2C20.8790281%20L27.4922264%2C21.9886235%20C27.2203773%2C22.0387673%2027%2C21.8487092%2027%2C21.5730183%20L27%2C18.7122688%20Z"%20id%3D"Rectangle-2"%20fill%3D"%23888"%2F><circle%20id%3D"Oval-8"%20fill%3D"%23888"%20cx%3D"25"%20cy%3D"34"%20r%3D"4"%2F><%2Fg><%2Fg><%2Fg><%2Fg><%2Fg><%2Fsvg>');
 }
 .audio_w_covers .audio_row .audio_row__cover {
-  background-image: url(http://i.imgur.com/u37E2du.png);
+  background-image: url(https://i.imgur.com/u37E2du.png);
 }
 .audio_page_player .audio_page_player_play .icon, .audio_page_player .audio_page_player_next .icon, .audio_page_player .audio_page_player_prev .icon {
 	filter: hue-rotate(322deg)brightness(1.4)saturate(.8) !important;

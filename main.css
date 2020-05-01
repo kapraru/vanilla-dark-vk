@@ -405,7 +405,7 @@ a.friends_possible_link, .pedit_add_row, div#delete, .wl_more_action.idd_wrap .i
   color: #504f49;
 }
 
-#im_dialogs > div.ui_scroll_overflow > div.ui_scroll_outer > div > div.ui_scroll_content > li.nim-dialog._im_dialog.nim-dialog_selected._im_dialog_selected .nim-dialog--preview{
+.app_widget_list_cover_button .flat_button, #im_dialogs > div.ui_scroll_overflow > div.ui_scroll_outer > div > div.ui_scroll_content > li.nim-dialog._im_dialog.nim-dialog_selected._im_dialog_selected .nim-dialog--preview{
 	color:#fff;
 }
 .reply[style*='0);'],
@@ -860,6 +860,8 @@ img.sticker_img.im_gift, img.im_gift, .emoji_sticker_image, .sticker_img  {
 .nim-dialog:not(.nim-dialog_deleted).nim-dialog.nim-dialog_classic.nim-dialog_unread, .nim-dialog:not(.nim-dialog_deleted).nim-dialog.nim-dialog_hovered, .nim-dialog:not(.nim-dialog_deleted).nim-dialog:hover, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_hovered+.im-search-results-head, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_hovered+.nim-dialog, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_selected+.im-search-results-head, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_selected+.nim-dialog, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_unread.nim-dialog_classic+.im-search-results-head, .nim-dialog:not(.nim-dialog_deleted).nim-dialog_unread.nim-dialog_classic+.nim-dialog, .nim-dialog:not(.nim-dialog_deleted):hover+.im-search-results-head, .nim-dialog:not(.nim-dialog_deleted):hover+.nim-dialog {
   border-top-color: var(--color7);
 }
-
+.emoji_sticker_image[src*='suggestions'] {
+  filter: invert(0.9);
+}
 }
 

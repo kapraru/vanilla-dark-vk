@@ -34,3 +34,15 @@
   border-left-color:transparent!important;
   border-right-color:transparent!important;
 }
+
+.CatalogBlock--divided, .CatalogSection, .audio_page_layout .audio_search_wrapper, .page_block._audio_page_content_block, .audio_section {
+  background-color: var(--color11);
+}
+
+.audio_search_wrapper .ui_search_new input.ui_search_field, .audio_search_wrapper .ui_search {
+  background-color: transparent!important;
+}
+
+.CatalogBlock--divided:before, .CatalogSection:before {
+  box-shadow: 0 1px 0 0 var(--color3), 0 0 0 1px var(--color3);
+}

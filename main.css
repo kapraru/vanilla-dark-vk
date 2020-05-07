@@ -90,7 +90,7 @@ div#wcm_messages_stat_graph div div,
 .graph_right_menu.clear_fix a[id^='svg_enabler_svg_menu'],
 .graph_right_menu.clear_fix a[id^='svg_enabler_svg_mobile_views_menu'],
 .graph_right_menu.clear_fix a[id^='svg_enabler_svg_sources_menu'],
-.stats_community_messages_info_title, .TemplatesSettings div.TemplatesSettings__input, .TemplatesSettings div.TemplatesSettings__textarea, .TemplatesDropDown__item:hover .TemplatesDropDown__item-content, .post_action_tt_item, .wall_module .reply.reply_deleted .reply_text, .wall_module .ui_tabs .ui_tab_group_sel, .ui_tabs .ui_tab_group_item, .audio_subscribe_promo__text, .AudioPlaylistSnippet .ActionButton--shuffle__text, .ads_ad_description, .PlaceholderSmall__text {
+.stats_community_messages_info_title, .TemplatesSettings div.TemplatesSettings__input, .TemplatesSettings div.TemplatesSettings__textarea, .TemplatesDropDown__item:hover .TemplatesDropDown__item-content, .post_action_tt_item, .wall_module .reply.reply_deleted .reply_text, .wall_module .ui_tabs .ui_tab_group_sel, .ui_tabs .ui_tab_group_item, .audio_subscribe_promo__text, .AudioPlaylistSnippet .ActionButton--shuffle__text, .ads_ad_description, .PlaceholderSmall__text, .article_layer .article_layer__content_footer .article_layer__content_footer_button {
 	color:var(--color6);
 }
 .im-chat-input .im-chat-input--text *, .lang_column b, .page_actions_expanded a.page_actions_item {
@@ -167,7 +167,7 @@ div#wcm_messages_stat_graph div div,
 .apps_group_catalog_rows .apps_catalog_row .apps_catalog_row_info .apps_catalog_label_widget {
   background-color: var(--color8);
 }
-.exchange_ad_post_club_commment, a.exchange_ad_post_link, a.exchange_ad_post_stats, .wdd_text, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, .prefix_input_wrap, .im-mess-stack .audio_row.audio_row_current:hover, .im-mess-stack .audio_row.audio_row_playing:hover, .im-mess-stack .audio_row.audio_row_current:hover, .im-page.im-page_classic .im-chat-history-resize, #marketplace .market_content .market_row .market_place_common_friend_badge, .similar_row_wrap .tickets_faq_img img, .similar_row_wrap .tickets_faq_img img:after, .article_dark .article, .article_dark  .article_layer__footer, .audio_row.audio_podcast:not(.audio_row_current):hover {
+.exchange_ad_post_club_commment, a.exchange_ad_post_link, a.exchange_ad_post_stats, .wdd_text, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, .prefix_input_wrap, .im-mess-stack .audio_row.audio_row_current:hover, .im-mess-stack .audio_row.audio_row_playing:hover, .im-mess-stack .audio_row.audio_row_current:hover, .im-page.im-page_classic .im-chat-history-resize, #marketplace .market_content .market_row .market_place_common_friend_badge, .similar_row_wrap .tickets_faq_img img, .similar_row_wrap .tickets_faq_img img:after, .article_dark .article, .article_dark  .article_layer__footer, .audio_row.audio_podcast:not(.audio_row_current):hover, .article_layer .article_layer__content_footer {
 	background-color:transparent;
 }
 

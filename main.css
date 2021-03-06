@@ -829,7 +829,7 @@ background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%
 .audio-msg-track.audio-msg-track_playing .audio-msg-track--btn {
   background-image:url('data:image/svg+xml;charset=utf-8,%3Csvg%20version%3D%221.0%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2010%2011%22%20width%3D%2210px%22%20height%3D%2211px%22%3E%0A%20%20%20%20%3Crect%20x%3D%221.5%22%20y%3D%221%22%20rx%3D%220.5%22%20ry%3D%220.5%22%20width%3D%222%22%20height%3D%229%22%20fill%3D%22%23222%22%20stroke%3D%22%23222%22%20%2F%3E%0A%20%20%20%20%3Crect%20x%3D%226.5%22%20y%3D%221%22%20rx%3D%220.5%22%20ry%3D%220.5%22%20width%3D%222%22%20height%3D%229%22%20fill%3D%22%23222%22%20stroke%3D%22%23222%22%20%2F%3E%0A%3C%2Fsvg%3E')
 }
-img.sticker_img.im_gift, img.im_gift, .emoji_sticker_image, .sticker_img  {
+img.sticker_img.im_gift, img.im_gift, svg.svg_sticker_animation, .emoji_sticker_image, .sticker_img  {
   -webkit-filter: drop-shadow(1px 1px 0 #ddd)drop-shadow(-1px -1px 0 #ddd)drop-shadow(1px 0 0 #ddd)drop-shadow(0 1px 0 #ddd)drop-shadow(0 -1px 0 #ddd)drop-shadow(0 1px 0 #ddd)drop-shadow(-1px 0 0 #ddd);
   filter: drop-shadow(1px 1px 0 #ddd)drop-shadow(-1px -1px 0 #ddd)drop-shadow(1px 0 0 #ddd)drop-shadow(0 1px 0 #ddd)drop-shadow(0 -1px 0 #ddd)drop-shadow(0 1px 0 #ddd)drop-shadow(-1px 0 0 #ddd);
 }

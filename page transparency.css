@@ -34,7 +34,6 @@
   border-left-color:transparent!important;
   border-right-color:transparent!important;
 }
-
 .CatalogBlock--divided, .CatalogSection, .audio_page_layout .audio_search_wrapper, .page_block._audio_page_content_block, .audio_section {
   background-color: var(--color11);
 }

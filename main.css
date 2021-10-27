@@ -1078,5 +1078,7 @@ box-shadow: inset 0 1px var(--color3);
 .FCConvo, .FCWindow {
   box-shadow: 0 0 1px 1px var(--color7)!important;
 }
-
+#top_nav > li.HeaderNav__item.HeaderNav__item--logo > a.TopHomeLink > svg > path:nth-child(3) {
+  fill: var(--color2)!important;
+}
 }

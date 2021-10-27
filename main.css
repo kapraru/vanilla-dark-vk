@@ -1081,4 +1081,13 @@ box-shadow: inset 0 1px var(--color3);
 #top_nav > li.HeaderNav__item.HeaderNav__item--logo > a.TopHomeLink > svg > path:nth-child(3) {
   fill: var(--color2)!important;
 }
+@keyframes ReplyUpdatedHighlight {
+  0% {
+    background-color: var(--color5)!important;
+  }
+
+  to {
+    background-color: var(--color4)!important;
+  }
+}
 }

@@ -12,7 +12,7 @@
   --color9: rgba(34,34,34,0.9);
   --color10: rgba(93,93,93,0.15);
   --color11: rgba(34, 34, 34, 0.5);
-  --filt2:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;  
+  --filt2:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;
   --filt22:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;
   --dots: url('https://i.imgur.com/GJNFVlx.png');
   --brigther_font_color: #aaa;
@@ -23,7 +23,7 @@
 /*importantfix*/
 
 .wall_module .my_like .like_icon, .wall_module .my_share .share_icon, .ui_actions_menu_item.im-action:before {
-  -webkit-filter:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;  
+  -webkit-filter:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;
   filter:hue-rotate(195deg)brightness(1.4)saturate(0.8) !important;
 }
 
@@ -87,10 +87,6 @@
 
 input.ui_search_field {
 	background-image:url('https://i.imgur.com/gKIc8cE.png')!important;
-}
-
-.pv_closed_commments_placeholder, .pv_no_commments_placeholder, .im-page .im-page--chat-search-empty {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='69' height='66'%3E%3Crect y='-328.2'/%3E%3Cg transform='translate(0 -.048) scale(.1674)'%3E%3Csvg width='408' height='396' overflow='visible' viewBox='0 0 68 66'%3E%3Cg fill='%23B9B384'%3E%3Cpath d='M13.5 60.1V54H0V10.938h6.25V12.5H1.5v40h13.875v8.813L25.25 52.5h22.875v1.938l-22 .063L13.5 65.7z'/%3E%3Cpath d='M42 43H11V0h57v43H54.5v11.375zm17.6-1.5h6.9v-40h-54v40h30.625L52.75 50v-8.5z'/%3E%3Ccircle cx='27' cy='21.5' r='3'/%3E%3Ccircle cx='40' cy='21.5' r='3'/%3E%3Ccircle cx='53' cy='21.5' r='3'/%3E%3C/g%3E%3C/svg%3E%3C/g%3E%3C/svg%3E")!important;
 }
 
 .page_actions_header_inner, .page_actions_dd_label, .ui_search_fltr_control, .olist_filter_label {
@@ -246,14 +242,9 @@ input[readonly*='true']{
 .CheckBox__input:checked+.CheckBox__indicator {
   background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15' viewBox='0 0 15 15'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Crect width='15' height='15' fill='%23B9B384' rx='3'/%3E%3Cpath stroke='%23000' stroke-width='1.7' stroke-linecap='round' stroke-linejoin='round' d='M4 7.5L6.5 10 11 4.5'/%3E%3C/g%3E%3C/svg%3E") no-repeat 50%;
 }
-[dir] .deep_active .replies .replies_wrap_deep .replies_next, [dir] .deep_active .wl_replies_block_wrap .replies_wrap_deep .replies_next, [dir] .deep_active.wall_module .replies .replies_wrap_deep .replies_next, [dir] .deep_active.wall_module .wl_replies_block_wrap .replies_wrap_deep .replies_next {
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='12' viewBox='0 0 12 12' width='12'%3E%3Cg fill='none' transform='matrix(1 0 0 -1 0 12)'%3E%3Cpath d='m0 0h12v12h-12z'/%3E%3Cpath d='m5.248 1.338a.997.997 0 0 1 .665-.334.998.998 0 0 1 .794.289l4 4a1 1 0 1 1 -1.414 1.414l-2.293-2.293v5.59c0 .55-.444.996-1 .996-.552 0-1-.456-1-.995v-5.59l-2.293 2.291a1 1 0 0 1 -1.414-1.414l3.955-3.955z' fill='%23B9B384' opacity='.5'/%3E%3C/g%3E%3C/svg%3E");
-}
+
 [dir] body.new_header_design .top_audio_player_play .top_audio_player_btn_icon, [dir] body.new_header_design .top_audio_player_prev .top_audio_player_btn_icon, [dir] body.new_header_design .top_audio_player_next .top_audio_player_btn_icon  {
   filter: saturate(0);
-}
-#side_bar_inner  svg {
-  filter: hue-rotate(192deg)brightness(1.4)saturate(0.4) !important;
 }
 [dir] .TopHomeLink--logoWithText {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' height='24' width='136'%3E%3Cpath d='M0 11.5c0-5.42 0-8.13 1.68-9.82C3.37 0 6.08 0 11.5 0h1c5.42 0 8.13 0 9.82 1.68C24 3.37 24 6.08 24 11.5v1c0 5.42 0 8.13-1.68 9.82C20.63 24 17.92 24 12.5 24h-1c-5.42 0-8.13 0-9.82-1.68C0 20.63 0 17.92 0 12.5z' fill='%23B9B384'/%3E%3Cg clip-rule='evenodd' fill-rule='evenodd'%3E%3Cpath d='M6.5 7.5H4.75c-.5 0-.6.24-.6.5 0 .46.6 2.76 2.76 5.8 1.45 2.07 3.49 3.2 5.34 3.2 1.11 0 1.25-.25 1.25-.68v-1.57c0-.5.1-.6.46-.6.26 0 .7.13 1.74 1.13 1.19 1.19 1.38 1.72 2.05 1.72h1.75c.5 0 .75-.25.6-.74-.15-.5-.72-1.2-1.47-2.05-.4-.49-1.02-1-1.2-1.26-.26-.34-.2-.49 0-.78 0 0 2.13-3 2.35-4.03.11-.37 0-.64-.53-.64H17.5a.76.76 0 00-.76.5s-.9 2.16-2.15 3.57c-.41.41-.6.54-.82.54-.1 0-.27-.13-.27-.5V8.14c0-.44-.13-.64-.5-.64h-2.75c-.28 0-.45.2-.45.4 0 .42.64.52.7 1.7v2.58c0 .57-.1.67-.32.67-.6 0-2.04-2.18-2.9-4.67-.16-.48-.33-.68-.78-.68z' fill='%23191919'/%3E%3Cpath d='M66.86 12.5c0 3.24-2.43 5.5-5.78 5.5s-5.78-2.26-5.78-5.5S57.73 7 61.08 7s5.78 2.26 5.78 5.5zm-8.97 0c0 1.97 1.3 3.3 3.19 3.3s3.19-1.33 3.19-3.3c0-1.98-1.3-3.25-3.19-3.25s-3.19 1.28-3.19 3.25zm-17.14-.21c.95-.44 1.56-1.18 1.56-2.33 0-1.73-1.58-2.96-3.87-2.96h-5.27v11h5.5c2.37 0 4.02-1.29 4.02-3.05 0-1.33-.87-2.32-1.94-2.66zM35.6 9.01h2.83c.85 0 1.44.5 1.44 1.2s-.6 1.2-1.44 1.2h-2.83zM38.67 16h-3.06V13.3h3.06c.96 0 1.59.55 1.59 1.36s-.63 1.33-1.59 1.33zM51.84 18h3.19l-5.06-5.71L54.61 7h-2.9l-3.68 4.27h-.6V7H45v11h2.44v-4.38h.59zM76.47 7v4.34h-4.93V7H69.1v11h2.43v-4.44h4.93V18h2.43V7zM86.9 18h-2.44V9.22h-3.8V7H90.7v2.22h-3.8zm9.5-11c-2.11 0-3.91.89-4.52 2.8l2.24.37c.34-.67 1.05-1.2 2.15-1.2 1.33 0 2.06.84 2.17 2.28h-2.32c-3.23 0-4.79 1.42-4.79 3.45 0 2.05 1.59 3.3 3.78 3.3 1.8 0 3-.72 3.53-1.63l.5 1.63h1.76v-6.18c0-3.19-1.74-4.82-4.5-4.82zm-.72 9c-1.19 0-1.9-.5-1.9-1.4 0-.85.57-1.44 2.43-1.44h2.35c0 1.8-1.19 2.84-2.88 2.84zm17.99 2h-3.2l-3.8-4.38h-.6V18h-2.43V7h2.43v4.27h.6L110.34 7h2.9l-4.63 5.29zm3.88 0h2.43V9.22h3.8V7h-10.04v2.22h3.8zM130.1 7c3.34 0 5.56 2.4 5.56 5.37 0 .3-.02.55-.04.79h-8.54c.23 1.69 1.36 2.69 3.17 2.69 1.29 0 2.15-.4 2.68-1.2l2.29.39c-.88 2.01-2.83 2.96-5.12 2.96a5.28 5.28 0 01-5.51-5.5c0-3.12 2.17-5.5 5.51-5.5zm2.92 4.25c-.4-1.37-1.4-2.15-2.92-2.15-1.48 0-2.47.74-2.87 2.15z' fill='%23888'/%3E%3C/g%3E%3C/svg%3E");

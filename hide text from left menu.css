@@ -178,3 +178,6 @@
 #side_bar_inner .left_row .left_count_wrap {
   margin-left: 4px!important;
 }
+body.new_header_design #side_bar ol li .left_row {
+  width: 20px;
+}

@@ -12,7 +12,7 @@
   --color9: rgba(43,48,52,0.9);
   --color10: rgba(92, 96, 101, 0.17);
   --color11: rgba(43, 48, 52, 0.49);
-  --filt2:hue-rotate(146deg)brightness(1.5)saturate(4)contrast(1) !important;  
+  --filt2:hue-rotate(146deg)brightness(1.5)saturate(4)contrast(1) !important;
   --filt22:hue-rotate(146deg)brightness(1.5)saturate(3)contrast(1) !important;
   --dots: url('https://i.imgur.com/FT35dle.png');
   --brigther_font_color: #a4abb3;
@@ -22,7 +22,7 @@
 
 /*only rose*/
 .wall_module .my_like .post_like_icon, .wall_module .my_share .post_share_icon, .wall_module .my_like .like_icon, .wall_module .my_share .share_icon {
-  -webkit-filter:hue-rotate(146deg)brightness(1.5)saturate(1.6)contrast(1) !important;  
+  -webkit-filter:hue-rotate(146deg)brightness(1.5)saturate(1.6)contrast(1) !important;
   filter:hue-rotate(146deg)brightness(1.5)saturate(1.6)contrast(1) !important;
 }
 
@@ -38,7 +38,7 @@
   filter:hue-rotate(142deg)brightness(1.5)saturate(2)contrast(1) !important;
 }
 .media_selector .ms_item:before, .media_selector .ms_item:before {
-  -webkit-filter:hue-rotate(146deg)brightness(1.2)saturate(3.6)contrast(1) !important;  
+  -webkit-filter:hue-rotate(146deg)brightness(1.2)saturate(3.6)contrast(1) !important;
   filter:hue-rotate(146deg)brightness(1.2)saturate(3.6)contrast(1) !important;
 }
 
@@ -71,9 +71,9 @@
   filter:invert(0.8) !important;
 }
 
-.im_stickers_close:after, .settings_menu_rows .olist_item_menu .olist_item_photo, .ui_actions_menu_icons, .wall_post_source_icon, .no_posts_cover, .radiobtn:before, .im-chat-placeholder, .olist_checkbox, .gifts_scroll_left, .gifts_scroll_right, .checkbox:before, .ui_tabs_loading .ui_tabs_progress, .ui_search_loading .ui_search_reset, .ui_search_custom.ui_search_loading .ui_search_reset, .ui_search_loading .ui_search_reset, .box_loading .box_x_button, .flist_item_action, .radiobtn_container table td .radiobtn_off_over div, .radiobtn_container table td .radiobtn_off div, .radiobtn_container table td .radiobtn_on_over div, .radiobtn_container table td .radiobtn_on div, img.close_button, .post-2016-layout .module .header_top .handle.togglable, .pv_cont .pv_closed_commments_placeholder, .pv_cont .pv_no_commments_placeholder, .checkbox_container table td .checkbox_off, .checkbox_container table td .checkbox_off_over, .checkbox_container table td .checkbox_on, .checkbox_container table td .checkbox_on_over, .sort_rev_icon, .replies_side, .module .header_top .handle.togglable, .photos_album_reverse_btn .photos_album_reverse_icon, .wk_hider_box .wk_hider_header, .wk_hider_box_opened .wk_hider_header, .wk_hider_opened .wk_hider_header, .im-to-end .im-to-end--label, .like_counter_wrap .arrow, #video_upload_box_wrapper .upload_check.loading, .video_upload_progress .video_upload_progress_bar, .group_info_row:before, .ui_search_new .ui_search_progress, .ui_search_new .ui_search_progress, .nim-dialog.nim-dialog_muted .nim-dialog--mute, .nim-dialog.nim-dialog_unread.nim-dialog_prep-injected.nim-dialog_muted .nim-dialog--mute, .settings_narrow_row input[type=checkbox]+label:before, .bp_action, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, .post_settings .checkbox_pic, .checkbox_pic.friends_only_pic, .progress_inline { 
-	-webkit-filter: invert(0.9)hue-rotate(330deg)brightness(1.5)saturate(2) !important; 
-	filter: invert(0.9)hue-rotate(330deg)brightness(1.5)saturate(2) !important; 
+.im_stickers_close:after, .settings_menu_rows .olist_item_menu .olist_item_photo, .ui_actions_menu_icons, .wall_post_source_icon, .no_posts_cover, .radiobtn:before, .im-chat-placeholder, .olist_checkbox, .gifts_scroll_left, .gifts_scroll_right, .checkbox:before, .ui_tabs_loading .ui_tabs_progress, .ui_search_loading .ui_search_reset, .ui_search_custom.ui_search_loading .ui_search_reset, .ui_search_loading .ui_search_reset, .box_loading .box_x_button, .flist_item_action, .radiobtn_container table td .radiobtn_off_over div, .radiobtn_container table td .radiobtn_off div, .radiobtn_container table td .radiobtn_on_over div, .radiobtn_container table td .radiobtn_on div, img.close_button, .post-2016-layout .module .header_top .handle.togglable, .pv_cont .pv_closed_commments_placeholder, .pv_cont .pv_no_commments_placeholder, .checkbox_container table td .checkbox_off, .checkbox_container table td .checkbox_off_over, .checkbox_container table td .checkbox_on, .checkbox_container table td .checkbox_on_over, .sort_rev_icon, .replies_side, .module .header_top .handle.togglable, .photos_album_reverse_btn .photos_album_reverse_icon, .wk_hider_box .wk_hider_header, .wk_hider_box_opened .wk_hider_header, .wk_hider_opened .wk_hider_header, .im-to-end .im-to-end--label, .like_counter_wrap .arrow, #video_upload_box_wrapper .upload_check.loading, .video_upload_progress .video_upload_progress_bar, .group_info_row:before, .ui_search_new .ui_search_progress, .ui_search_new .ui_search_progress, .nim-dialog.nim-dialog_muted .nim-dialog--mute, .nim-dialog.nim-dialog_unread.nim-dialog_prep-injected.nim-dialog_muted .nim-dialog--mute, .settings_narrow_row input[type=checkbox]+label:before, .bp_action, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, .post_settings .checkbox_pic, .checkbox_pic.friends_only_pic, .progress_inline {
+	-webkit-filter: invert(0.9)hue-rotate(330deg)brightness(1.5)saturate(2) !important;
+	filter: invert(0.9)hue-rotate(330deg)brightness(1.5)saturate(2) !important;
 }
 
 input.ui_search_field {
@@ -244,7 +244,6 @@ input[readonly*='true']{
 .CheckBox__input:checked+.CheckBox__indicator {
   background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15' viewBox='0 0 15 15'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Crect width='15' height='15' fill='%23f58e78' rx='3'/%3E%3Cpath stroke='%23000' stroke-width='1.7' stroke-linecap='round' stroke-linejoin='round' d='M4 7.5L6.5 10 11 4.5'/%3E%3C/g%3E%3C/svg%3E") no-repeat 50%;
 }
-
 [dir] body.new_header_design .top_audio_player_play .top_audio_player_btn_icon, [dir] body.new_header_design .top_audio_player_prev .top_audio_player_btn_icon, [dir] body.new_header_design .top_audio_player_next .top_audio_player_btn_icon  {
   filter: saturate(0);
 }
